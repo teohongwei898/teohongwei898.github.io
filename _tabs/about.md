@@ -33,7 +33,7 @@ I graduated from NTU with a B.Eng. in Electrical and Electronic Engineering, whe
 
 ## My Cybersecurity Journey
 
-My journey into cybersecurity has been nothing short of serendipitous. I consider myself extremely fortunate to have stumbled upon a field that resonates with my interests and passions. Currently working as a Digital Forensics Analyst in [Cyber Security Agency of Singapore](https://www.csa.gov.sg/), I get to immerse myself in the world of real world cyber investigations as part of the National Incident Response Team. It is defintely a field that constantly challenges me and allows me to apply my technical skills to solve real-world problems.
+My journey into cybersecurity has been nothing short of serendipitous. I consider myself extremely fortunate to have stumbled upon a field that resonates with my interests and passions. Currently working as a Cybersecurity Consultant (DFIR) in [Cyber Security Agency of Singapore](https://www.csa.gov.sg/), I get to immerse myself in the world of real world cyber investigations as part of the National Incident Response Team. It is defintely a field that constantly challenges me and allows me to apply my technical skills to solve real-world problems.
 
 ## Esports
 
