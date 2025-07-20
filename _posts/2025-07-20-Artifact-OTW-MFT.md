@@ -1,6 +1,6 @@
 ---
 title: "Artifact of the Week - MFT"
-date: 2025-07-20 19:35:00 +0800
+date: 2025-07-20 11:20:00 +0800
 categories: [DFIR]
 tags: [AOTW, DFIR, TH]
 ---
